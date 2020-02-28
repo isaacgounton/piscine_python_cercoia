@@ -1,0 +1,11 @@
+name = "isaacgounton"
+age = 26
+prenom = "Isaac"
+nom = "Gounton"
+profession = "dev"
+title = "CV"
+ecole = "CERCO IA"
+specialite = "Robotique"
+ville = "Cotonou"
+web = "www.pievoo.com"
+email = "perbene@pievoo.com"
