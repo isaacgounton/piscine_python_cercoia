@@ -1,0 +1,94 @@
+body {
+		background-color : rgb(90,195,244);
+		font-family: 'Trebuchet MS', Arial, sans-serif;
+		color: #181818;
+        margin: 0;
+        text-align: justify;
+}
+
+p,li
+{
+    font-family : "Trebuchet MS", "Verdana", "Georgia", serif;
+    font-size : 14px ;
+}
+
+h1 {
+		text-align: center;
+    }
+    
+p {
+    font-size: 14px;
+    text-indent : 20px;
+}
+h2,h3,h4
+{
+    font-family : "Trebuchet MS", "Verdana", "Georgia", serif;
+    color : blue;
+}
+
+#footer
+{
+    text-align: justify;
+    color: blue;
+}
+
+caption
+{
+    margin: auto;
+    font-family : "Trebuchet MS", "Verdana", "Georgia", serif;
+    font-size : 14px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color : blue;
+}
+table
+{
+    border-collapse: collapse;
+    margin : auto;
+    font-family : "Trebuchet MS", "Verdana", "Georgia", serif;
+    font-size : 14px;
+    margin-bottom: auto;
+    border-color: pink;
+}
+
+tr
+{
+    height: 30px ; 
+    text-align : right; 
+    vertical-align : center;
+}
+td
+{
+    border: 1px solid green; 
+    padding:10px">
+}
+th
+{
+    border: 1px solid green;
+    text-align : center;
+    color : blue ;
+    background-color: rgb(190,190,190);
+}
+
+ul,li
+{
+    text-indent : 0px;
+}
+
+html {
+    font-family : "Trebuchet MS", "Verdana", "Georgia", serif;
+}
+section { 
+    border: double medium; 
+    margin: 10px 20px;
+    padding: 10px;
+}
+
+#selected {
+    border: 2px solid #424242!important;
+}
+
+.jumbotron {
+		background-color: f2f8fa;
+		font-family: 'Trebuchet MS', Arial, sans-serif;
+    }
