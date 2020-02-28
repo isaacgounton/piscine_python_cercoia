@@ -1,0 +1,3 @@
+# roads_to_philosophy
+requests>=2.18
+beautifulsoup4>=4.8.2
